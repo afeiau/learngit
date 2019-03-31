@@ -3,4 +3,6 @@ Add this line, I changed it now
 Add this 2 line 
 Add this 3 line 
 Add this 4 line 
+Delete this line
+today is a good day
 
